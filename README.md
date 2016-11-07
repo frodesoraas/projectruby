@@ -1,0 +1,1 @@
+Nå skal jeg lære å feilteste ruby-program. 
